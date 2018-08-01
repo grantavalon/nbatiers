@@ -1,243 +1,241 @@
-team, city, state, tier
-Boston Celtics, Boston, MA, 1
-Atlanta Hawks, Atlanta, GA, 1
-Brooklyn Nets, Brooklyn, NY, 1
-Charlotte Hornets, Charlotte, NC, 1
-Chicago Bulls, Chicago, IL, 1
-Cleveland Cavaliers, Cleveland, OH, 1
-Dallas Mavericks, Dallas, TX, 1
-Denver Nuggets, Denver, CO, 1
-Detroit Pistons, Detroit, MI, 1
-Golden State Warriors, San Francisco, CA, 1
-Houston Rockets, Houston, TX, 1
-Indiana Pacers, Indianapolis, IN, 1
-Los Angeles Clippers, Los Angeles, CA, 1
-Los Angeles Lakers, Los Angeles, CA, 1
-Memphis Grizzlies, Memphis, TN, 1
-Miami Heat, Miami, FL, 1
-Milwaukee Bucks, Milwaukee, WI, 1
-Minnesota Timberwolves, Minneapolis, MN, 1
-New Orleans Pelicans, New Orleans, LA, 1
-New York Knicks, New York, NY, 1
-Oklahoma City Thunder, Oklahoma City, OK, 1
-Orlando Magic, Orlando, FL, 1
-Philadelphia 76ers, Philadelphia, PA, 1
-Phoenix Suns, Phoenix, AZ, 1
-Portland Trail Blazers, Portland, OR, 1
-Sacramento Kings, Sacramento, CA, 1
-San Antonio Spurs, San Antonio, TX, 1
-Toronto Raptors, Toronto, ON, 1
-Utah Jazz, Salt Lake City, UT, 1
-Washington Wizards, Washington, DC, 1
-Anaheim Amigos, Anaheim, CA, 2
-Baltimore Bullets, Baltimore, MD, 2
-Buffalo Braves, Buffalo, NY, 2
-Calgary Cowboys, Calgary, AB, 2
-Chicago Gears, Chicago, IL, 2
-Cincinnati Royals, Cincinnati, OH, 2
-Columbus Athletics, Columbus, OH, 2
-Edmonton Eskimos, Edmonton, AB, 2
-Green Bay Cheese, Green Bay, WI, 2
-Jacksonville Giants, Jacksonville, FL, 2
-Kansas City Kings, Kansas City, MO, 2
-Las Vegas Gamblers, Las Vegas, NV, 2
-Louisville Bourbon, Louisville, KY, 2
-Mexico City Chalupas, Mexico City, CDMX, 2
-Montreal Macrons, Montreal, QC, 2
-Nashville Twang, Nashville, TN, 2
-Newark Traffic, Newark, NJ, 2
-Norfolk Squires, Norfolk, VA, 2
-Oakland Oaks, Oakland, CA, 2
-Ottawa Capitals, Ottawa, ON, 2
-Pittsburgh Pipers, Pittsburgh, PA, 2
-Raleigh Firebirds, Raleigh, NC, 2
-St. Louis Spirits, St. Louis, MO, 2
-San Diego Yachts, San Diego, CA, 2
-San Jose Surge, San Jose, CA, 2
-Seattle Supersonics, Seattle, WA, 2
-Tampa Turtles, Tampa, FL, 2
-Vancouver Vacuums, Vancouver, BC, 2
-Virginia Beach Vipers, Virginia Beach, VA, 2
-Winnipeg Caribou, Winnipeg, MB, 2
-Albuquerque Thunderbirds, Albuquerque, NM, 3
-Anderson Packers, Anderson, IN, 3
-Austin Bats, Austin, TX, 3
-Boise Stampede, Boise, ID, 3
-Charleston Lowgators, Charleston, SC, 3
-Edinburg Valley Vipers, Edinburg, TX, 3
-El Paso Outlaws, El Paso, TX, 3
-El Segundo Jets, El Segundo, CA, 3
-Erie BayHawks, Erie, PA, 3
-Fort Wayne Mad Ants, Fort Wayne, IN, 3
-Frisco Legends, Frisco, TX, 3
-Grand Rapids Drive, Grand Rapids, MI, 3
-Hamilton Hammerheads, Hamilton, ON, 3
-Hartford Hellcats, Hartford, CT, 3
-Lakeland Egrets, Lakeland, FL, 3
-Long Island Eggs, Uniondale, NY, 3
-Mississauga 905, Mississauga, ON, 3
-Moline Quads, Moline, IL, 3
-Omaha Beef, Omaha, NE, 3
-Prescott Pueblos, Prescott, AZ, 3
-Providence Steamrollers, Providence, RI, 3
-Quebec City Croissants, Quebec City, QC, 3
-Reno Bighorns, Reno, NV, 3
-Rochester Royals, Rochester, NY, 3
-Saskatoon Snow Leopards, Saskatoon, SK, 3
-Sheboygan Red Skins, Sheboygan, WI, 3
-Syracuse Nationals, Syracuse, NY, 3
-Sioux Falls Skyforce, Sioux Falls, SD, 3
-Waterloo Hawks, Waterloo, IA, 3
-White Plains Wealth, White Plains, NY, 3
-Akron Wingfoots, Akron, OH, 4
-Canton Charge, Canton, OH, 4
-Charlottetown Storm, Charlottetown, PE, 4
-Dayton Rens, Dayton, OH, 4
-Des Moines Wolves, Des Moines, IA, 4
-Flint Fuze, Flint, MI, 4
-Fort Worth Flyers, Fort Worth, TX, 4
-Greensboro Swarm, Greensboro, NC, 4
-Halifax Hurricanes, Halifax, NS, 4
-Kitchener Titans, Kitchener, ON, 4
-Little Rock RimRockers, Little Rock, AR, 4
-London Lightning, London, ON, 4
-Moncton Magic, Moncton, NB, 4
-Ontario Caliente, Ontario, CA, 4
-Oshkosh Stars, Oshkosh, WI, 4
-Portland Red Claws, Portland, ME, 4
-Richmond Clothiers, Richmond, IN, 4
-Saint John Riptide, Saint John, NB, 4
-St. John's Edge, St. John's, NL, 4
-Santa Cruz Slugs, Santa Cruz, CA, 4
-Springfield Armor, Springfield, MA, 4
-Stockton Swords, Stockton, CA, 4
-Sudbury Five, Sudbury, ON, 4
-Sydney Highlanders, Sydney, NS, 4
-Toledo Jeeps, Toledo, OH, 4
-Tulsa 66ers, Tulsa, OK, 4
-Warren Penns, Warren, MI, 4
-Wilmington Blue Coats, Wilmington, DE, 4
-Youngstown Bears, Youngstown, OH, 4
-Windsor Express, Windsor, ON, 4
-Albany Patroons, Albany, NY, 5
-Allentown Jets, Allentown, PA, 5
-Anchorage Northern Knights, Anchorage, AK, 5
-Asheville Altitude, Asheville, NC, 5
-Bakersfield Jam, Bakersfield, CA, 5
-Bismarck Wizards, Bismarck, ND, 5
-Camden Bullets, Camden, NJ, 5
-Columbus Riverdragons, Columbus, GA, 5
-Fayetteville Patriots, Fayetteville, NC, 5
-Fresno Farmers, Fresno, CA, 5
-Fort Myers Flame, Fort Myers, FL, 5
-Greenville Groove, Greenville, SC, 5
-Honolulu Volcanos, Honolulu, HI, 5
-Huntsville Flight, Huntsville, AL, 5
-La Crosse Catbirds, La Crosse, WI, 5
-Lancaster Red Roses, Lancaster, PA, 5
-Lawton Cavalry, Lawton, OK, 5
-Mobile Revelers, Mobile, AL, 5
-Muskegon Mayhem, Muskegon, MI, 5
-Orem Flash, Orem, UT, 5
-Owensboro Thoroughbreds, Owensboro, KY, 5
-Rapid City Thrillers, Rapid City, SD, 5
-Richmond Roosters, Richmond, VA, 5
-Roanoke Dazzle, Roanoke, VA, 5
-Saint Petersburg Tide, Saint Petersburg, FL, 5
-Savannah Spirits, Savannah, GA, 5
-Scranton Aces, Scranton, PA, 5
-Wichita Falls Texans, Wichita Falls, TX, 5
-Wilkes-Barre Barons, Wilkes-Barre, PA, 5
-Yakima SunKings, Yakima, WA, 5
-Atlantic City Hi-Rollers, Atlantic City, NJ, 6
-Spokane Pines, Spokane, WA, 6
-Bangor Lumberjacks, Bangor, ME, 6
-Billings Volcanos, Billings, MT, 6
-Binghamton Flyers, Binghamton, NY, 6
-Butte Daredevils, Butte, MT, 6
-Casper Wildcatters, Casper, WY, 6
-Cedar Rapids Silver Bullets, Cedar Rapids, IA, 6
-Charleston Gunners, Charleston, WV, 6
-Colorado Springs Mountaineers, Colorado Springs, CO, 6
-Elmira Eagles, Elmira, NY, 6
-Evansville Thunder, Evansville, IN, 6
-Fargo Fever, Fargo, ND, 6
-Gary Steelheads, Gary, IN, 6
-Great Falls Explorers, Great Falls, MT, 6
-Irvine Novastars, Irvine, CA, 6
-Jackson Showboats, Jackson, MS, 6
-Minot SkyRockets, Minot, ND, 6
-Pensacola Tornados, Pensacola, FL, 6
-Pikeville Miners, Pikeville, KY, 6
-Reading Rainbows, Reading, PA, 6
-Rockford Lightning, Rockford, IL, 6
-St. Augustine Glory, St. Augustine, FL, 6
-Santa Barbara Islanders, Santa Barbara, CA, 6
-Sarasota Stingers, Sarasota, FL, 6
-Shreveport Crawdads, Shreveport, LA, 6
-Topeka Sizzlers, Topeka, KS, 6
-Tucson Buckets, Tucson, AZ, 6
-Utica Olympics, Utica, NY, 6
-Worcester 78's, Worcester, MA, 6
-Augusta Eagles, Augusta, GA, 7
-Bellevue Blackhawks, Bellevue, WA, 7
-Bowling Green Hornets, Bowling Green, KY, 7
-Camp Springs Valor, Camp Springs, MD, 7
-Columbia Crusaders, Columbia, SC, 7
-Cornwall Frost Heaves, Cornwall, VT, 7
-Danville Coal Miners, Danville, IL, 7
-Dillon Thunder, Dillon, SC, 7
-Durham Coyotes, Durham, NC, 7
-Florence Wildcats, Florence, SC, 7
-Fort Mill Players, Fort Mill, SC, 7
-Fredericksburg Grizzlies, Fredericksburg, VA, 7
-Greenville Galaxy, Greenville, NC, 7
-Hampton Stallions, Hampton, VA, 7
-Hickory Hoyas, Hickory, NC, 7
-Jackson Eagles, Jackson, TN, 7
-Kyle Stallions, Kyle, TX, 7
-Lake Worth Gold, Lake Worth, FL, 7
-Mesquite Desert Dogs, Mesquite, NV, 7
-Monroe Jazz, Monroe, LA, 7
-Oneonta Octane, Oneonta, NY, 7
-Peoria Panthers, Peoria, IL, 7
-Petersburg Cavaliers, Petersburg, VA, 7
-Salisbury Bulls, Salisbury, NC, 7
-Spartanburg Stars, Spartanburg, SC, 7
-Springfield Sentinels, Springfield, IL, 7
-Stone Mountain Storm, Stone Mountain, GA, 7
-Temple Nighthawks, Temple, TX, 7
-Wayne Express, Wayne, NJ, 7
-Westerville Bootleggers, Westerville, OH, 7
-Altoona Tuna, Altoona, PA, 8
-Baton Rouge Beignets, Baton Rouge, LA, 8
-Bethlehem Stables, Bethlehem, PA, 8
-Biloxi Blues, Biloxi, MS, 8
-Birmingham Bombardiers, Birmingham, AL, 8
-Bowie Rockstars, Bowie, MD, 8
-Brownsville Horchata, Brownsville, TX, 8
-Chattanooga Choo-Choos, Chattanooga, TN, 8
-Corpus Christi Crash, Corpus Christi, TX, 8
-Saint Paul Snowballs, Saint Paul, MN, 8
-Knoxville Smokies, Knoxville, TN, 8
-Lexington Leopards, Lexington, KY, 8
-Lincoln Logs, Lincoln, NE, 8
-Lubbock Yuccas, Lubbock, TX, 8
-Madison Sconnies, Madison, WI, 8
-Manchester Mastodons, Manchester, NH, 8
-Midland Mystery, Midland, TX, 8
-Modesto Almonds, Modesto, CA, 8
-Montgomery Marlins, Montgomery, AL, 8
-Pawtucket Quahogs, Pawtucket, RI, 8
-Salem Witchcraft, Salem, OR, 8
-Scottsdale Sunshine, Scottsdale, AZ, 8
-Eugene Voodoo, Eugene, OR, 8
-Springdale Surge, Springdale, AR, 8
-Springfield Show-Mes, Springfield, MO, 8
-Tacoma Trout, Tacoma, WA, 8
-Tallahassee Tourists, Tallahassee, FL, 8
-Trenton Gardeners, Trenton, NJ, 8
-Vancouver Valhalla, Vancouver, WA, 8
-Wichita Wheat, Wichita, KS, 8
-
-
+team,city,state,tier,lat,long
+Boston Celtics,Boston,MA,1,42.3600825,-71.0588801
+Atlanta Hawks,Atlanta,GA,1,33.7489954,-84.3879824
+Brooklyn Nets,Brooklyn,NY,1,40.6781784,-73.9441579
+Charlotte Hornets,Charlotte,NC,1,35.2270869,-80.8431267
+Chicago Bulls,Chicago,IL,1,41.8781136,-87.6297982
+Cleveland Cavaliers,Cleveland,OH,1,41.49932,-81.6943605
+Dallas Mavericks,Dallas,TX,1,32.7766642,-96.79698789999999
+Denver Nuggets,Denver,CO,1,39.7392358,-104.990251
+Detroit Pistons,Detroit,MI,1,42.331427,-83.0457538
+Golden State Warriors,San Francisco,CA,1,37.7749295,-122.4194155
+Houston Rockets,Houston,TX,1,29.7604267,-95.3698028
+Indiana Pacers,Indianapolis,IN,1,39.768403,-86.158068
+Los Angeles Clippers,Los Angeles,CA,1,34.0522342,-118.2436849
+Los Angeles Lakers,Los Angeles,CA,1,34.0522342,-118.2436849
+Memphis Grizzlies,Memphis,TN,1,35.1495343,-90.0489801
+Miami Heat,Miami,FL,1,25.7616798,-80.1917902
+Milwaukee Bucks,Milwaukee,WI,1,43.0389025,-87.9064736
+Minnesota Timberwolves,Minneapolis,MN,1,44.977753,-93.2650108
+New Orleans Pelicans,New Orleans,LA,1,29.95106579999999,-90.0715323
+New York Knicks,New York,NY,1,40.7127753,-74.0059728
+Oklahoma City Thunder,Oklahoma City,OK,1,35.4675602,-97.5164276
+Orlando Magic,Orlando,FL,1,28.5383355,-81.3792365
+Philadelphia 76ers,Philadelphia,PA,1,39.9525839,-75.1652215
+Phoenix Suns,Phoenix,AZ,1,33.4483771,-112.0740373
+Portland Trail Blazers,Portland,OR,1,45.5122308,-122.6587185
+Sacramento Kings,Sacramento,CA,1,38.5815719,-121.4943996
+San Antonio Spurs,San Antonio,TX,1,29.4241219,-98.49362819999999
+Toronto Raptors,Toronto,ON,1,43.653226,-79.3831843
+Utah Jazz,Salt Lake City,UT,1,40.7607793,-111.8910474
+Washington Wizards,Washington,DC,1,38.9071923,-77.0368707
+Anaheim Amigos,Anaheim,CA,2,33.8365932,-117.9143012
+Baltimore Bullets,Baltimore,MD,2,39.2903848,-76.6121893
+Buffalo Braves,Buffalo,NY,2,42.88644679999999,-78.8783689
+Calgary Cowboys,Calgary,AB,2,51.0486151,-114.0708459
+Chicago Gears,Chicago,IL,2,41.8781136,-87.6297982
+Cincinnati Royals,Cincinnati,OH,2,39.1031182,-84.5120196
+Columbus Athletics,Columbus,OH,2,39.9611755,-82.99879419999999
+Edmonton Eskimos,Edmonton,AB,2,53.544389,-113.4909267
+Green Bay Cheese,Green Bay,WI,2,44.5133188,-88.0132958
+Jacksonville Giants,Jacksonville,FL,2,30.3321838,-81.65565099999999
+Kansas City Kings,Kansas City,MO,2,39.0997265,-94.5785667
+Las Vegas Gamblers,Las Vegas,NV,2,36.1699412,-115.1398296
+Louisville Bourbon,Louisville,KY,2,38.2526647,-85.7584557
+Mexico City Chalupas,Mexico City,CDMX,2,19.4326077,-99.133208
+Montreal Macarons,Montreal,QC,2,45.5016889,-73.567256
+Nashville Twang,Nashville,TN,2,36.1626638,-86.7816016
+Newark Traffic,Newark,NJ,2,40.735657,-74.1723667
+Norfolk Squires,Norfolk,VA,2,36.8507689,-76.28587259999999
+Oakland Oaks,Oakland,CA,2,37.8043637,-122.2711137
+Ottawa Capitals,Ottawa,ON,2,45.4215296,-75.69719309999999
+Pittsburgh Pipers,Pittsburgh,PA,2,40.44062479999999,-79.9958864
+Raleigh Firebirds,Raleigh,NC,2,35.7795897,-78.6381787
+St. Louis Spirits,St. Louis,MO,2,38.6270025,-90.19940419999999
+San Diego Yachts,San Diego,CA,2,32.715738,-117.1610838
+San Jose Surge,San Jose,CA,2,37.3382082,-121.8863286
+Seattle Supersonics,Seattle,WA,2,47.6062095,-122.3320708
+Tampa Turtles,Tampa,FL,2,27.950575,-82.4571776
+Vancouver Vacuums,Vancouver,BC,2,49.2827291,-123.1207375
+Virginia Beach Vipers,Virginia Beach,VA,2,36.8529263,-75.97798499999999
+Winnipeg Caribou,Winnipeg,MB,2,49.895136,-97.13837439999999
+Albuquerque Thunderbirds,Albuquerque,NM,3,35.0843859,-106.650422
+Anderson Packers,Anderson,IN,3,40.1053196,-85.6802541
+Austin Bats,Austin,TX,3,30.267153,-97.7430608
+Boise Stampede,Boise,ID,3,43.6150186,-116.2023137
+Charleston Lowgators,Charleston,SC,3,32.7764749,-79.93105120000001
+Edinburg Valley Vipers,Edinburg,TX,3,26.3017374,-98.1633432
+El Paso Outlaws,El Paso,TX,3,31.7618778,-106.4850217
+El Segundo Jets,El Segundo,CA,3,33.9191799,-118.4164652
+Erie BayHawks,Erie,PA,3,42.12922409999999,-80.085059
+Fort Wayne Mad Ants,Fort Wayne,IN,3,41.079273,-85.1393513
+Frisco Legends,Frisco,TX,3,33.1506744,-96.82361159999999
+Grand Rapids Drive,Grand Rapids,MI,3,42.9633599,-85.6680863
+Hamilton Hammerheads,Hamilton,ON,3,43.2557206,-79.8711024
+Hartford Hellcats,Hartford,CT,3,41.7658043,-72.6733723
+Lakeland Egrets,Lakeland,FL,3,28.0394654,-81.9498042
+Long Island Eggs,Uniondale,NY,3,40.7003793,-73.5929056
+Mississauga 905,Mississauga,ON,3,43.5890452,-79.6441198
+Moline Quads,Moline,IL,3,41.5067003,-90.51513419999999
+Omaha Beef,Omaha,NE,3,41.2565369,-95.9345034
+Prescott Pueblos,Prescott,AZ,3,34.5400242,-112.4685025
+Providence Steamrollers,Providence,RI,3,41.8239891,-71.4128343
+Quebec City Croissants,Quebec City,QC,3,46.8138783,-71.2079809
+Reno Bighorns,Reno,NV,3,39.5296329,-119.8138027
+Rochester Royals,Rochester,NY,3,43.15657789999999,-77.6088465
+Saskatoon Snow Leopards,Saskatoon,SK,3,52.1332144,-106.6700458
+Sheboygan Red Skins,Sheboygan,WI,3,43.7508284,-87.71453
+Syracuse Nationals,Syracuse,NY,3,43.0481221,-76.14742439999999
+Sioux Falls Skyforce,Sioux Falls,SD,3,43.5473028,-96.728333
+Waterloo Hawks,Waterloo,IA,3,42.492786,-92.34257749999999
+White Plains Wealth,White Plains,NY,3,41.03398620000001,-73.7629097
+Akron Wingfoots,Akron,OH,4,41.0814447,-81.51900529999999
+Canton Charge,Canton,OH,4,40.79894729999999,-81.378447
+Charlottetown Storm,Charlottetown,PE,4,46.23824,-63.13107040000001
+Dayton Rens,Dayton,OH,4,39.7589478,-84.1916069
+Des Moines Wolves,Des Moines,IA,4,41.5868353,-93.6249593
+Flint Fuze,Flint,MI,4,43.0125274,-83.6874562
+Fort Worth Flyers,Fort Worth,TX,4,32.7554883,-97.3307658
+Greensboro Swarm,Greensboro,NC,4,36.0726354,-79.7919754
+Halifax Hurricanes,Halifax,NS,4,44.64876350000001,-63.5752387
+Kitchener Titans,Kitchener,ON,4,43.4516395,-80.4925337
+Little Rock RimRockers,Little Rock,AR,4,34.7464809,-92.28959479999999
+London Lightning,London,ON,4,42.9849233,-81.2452768
+Moncton Magic,Moncton,NB,4,46.0878165,-64.7782313
+Ontario Caliente,Ontario,CA,4,34.0633443,-117.6508876
+Oshkosh Stars,Oshkosh,WI,4,44.0247062,-88.5426136
+Portland Red Claws,Portland,ME,4,43.6590993,-70.2568189
+Richmond Clothiers,Richmond,IN,4,39.8289369,-84.8902382
+Saint John Riptide,Saint John,NB,4,45.2733153,-66.06330799999999
+St. John's Edge,St. John's,NL,4,47.5615096,-52.7125768
+Santa Cruz Slugs,Santa Cruz,CA,4,36.9741171,-122.0307963
+Springfield Armor,Springfield,MA,4,42.1014831,-72.589811
+Stockton Swords,Stockton,CA,4,37.9577016,-121.2907796
+Sudbury Five,Sudbury,ON,4,46.522099,-80.9530353
+Sydney Highlanders,Sydney,NS,4,46.1367899,-60.19422399999999
+Toledo Jeeps,Toledo,OH,4,41.6528052,-83.5378674
+Tulsa 66ers,Tulsa,OK,4,36.1539816,-95.99277500000001
+Warren Penns,Warren,MI,4,42.5144566,-83.01465259999999
+Wilmington Blue Coats,Wilmington,DE,4,39.7390721,-75.5397878
+Youngstown Bears,Youngstown,OH,4,41.0997803,-80.6495194
+Windsor Express,Windsor,ON,4,42.3149367,-83.03636329999999
+Albany Patroons,Albany,NY,5,42.6525793,-73.7562317
+Allentown Jets,Allentown,PA,5,40.6022939,-75.4714098
+Anchorage Northern Knights,Anchorage,AK,5,61.2180556,-149.9002778
+Asheville Altitude,Asheville,NC,5,35.5950581,-82.5514869
+Bakersfield Jam,Bakersfield,CA,5,35.3732921,-119.0187125
+Bismarck Wizards,Bismarck,ND,5,46.8083268,-100.7837392
+Camden Bullets,Camden,NJ,5,39.9259463,-75.1196199
+Columbus Riverdragons,Columbus,GA,5,32.4609764,-84.9877094
+Fayetteville Patriots,Fayetteville,NC,5,35.0526641,-78.87835849999999
+Fresno Farmers,Fresno,CA,5,36.7377981,-119.7871247
+Fort Myers Flame,Fort Myers,FL,5,26.640628,-81.8723084
+Greenville Groove,Greenville,SC,5,34.85261759999999,-82.3940104
+Honolulu Volcanos,Honolulu,HI,5,21.3069444,-157.8583333
+Huntsville Flight,Huntsville,AL,5,34.7303688,-86.5861037
+La Crosse Catbirds,La Crosse,WI,5,43.8137751,-91.25190169999999
+Lancaster Red Roses,Lancaster,PA,5,40.0378755,-76.3055144
+Lawton Cavalry,Lawton,OK,5,34.6035669,-98.39592909999999
+Mobile Revelers,Mobile,AL,5,30.6953657,-88.0398912
+Muskegon Mayhem,Muskegon,MI,5,43.2341813,-86.24839209999999
+Orem Flash,Orem,UT,5,40.2968979,-111.6946475
+Owensboro Thoroughbreds,Owensboro,KY,5,37.7719074,-87.1111676
+Rapid City Thrillers,Rapid City,SD,5,44.0805434,-103.2310149
+Richmond Roosters,Richmond,VA,5,37.5407246,-77.4360481
+Roanoke Dazzle,Roanoke,VA,5,37.2709704,-79.9414266
+Saint Petersburg Tide,Saint Petersburg,FL,5,27.7676008,-82.64029149999999
+Savannah Spirits,Savannah,GA,5,32.0808989,-81.091203
+Scranton Aces,Scranton,PA,5,41.408969,-75.66241219999999
+Wichita Falls Texans,Wichita Falls,TX,5,33.9137085,-98.4933873
+Wilkes-Barre Barons,Wilkes-Barre,PA,5,41.2459149,-75.88130749999999
+Yakima SunKings,Yakima,WA,5,46.6020711,-120.5058987
+Atlantic City Hi-Rollers,Atlantic City,NJ,6,39.3642834,-74.4229266
+Spokane Pines,Spokane,WA,6,47.6587802,-117.4260465
+Bangor Lumberjacks,Bangor,ME,6,44.8016128,-68.7712257
+Billings Volcanos,Billings,MT,6,45.7832856,-108.5006904
+Binghamton Flyers,Binghamton,NY,6,42.09868669999999,-75.91797380000001
+Butte Daredevils,Butte,MT,6,46.0038232,-112.5347775
+Casper Wildcatters,Casper,WY,6,42.8500769,-106.3251749
+Cedar Rapids Silver Bullets,Cedar Rapids,IA,6,41.9778795,-91.6656232
+Charleston Gunners,Charleston,WV,6,38.3498195,-81.6326234
+Colorado Springs Mountaineers,Colorado Springs,CO,6,38.8338816,-104.8213634
+Elmira Eagles,Elmira,NY,6,42.0897965,-76.8077338
+Evansville Thunder,Evansville,IN,6,37.9715592,-87.5710898
+Fargo Fever,Fargo,ND,6,46.8771863,-96.7898034
+Gary Steelheads,Gary,IN,6,41.5933696,-87.3464271
+Great Falls Explorers,Great Falls,MT,6,47.5052849,-111.3007715
+Irvine Novastars,Irvine,CA,6,33.6845673,-117.8265049
+Jackson Showboats,Jackson,MS,6,32.2987573,-90.1848103
+Minot SkyRockets,Minot,ND,6,48.2329668,-101.2922906
+Pensacola Tornados,Pensacola,FL,6,30.42130899999999,-87.2169149
+Pikeville Miners,Pikeville,KY,6,37.4792672,-82.5187629
+Reading Rainbows,Reading,PA,6,40.3356483,-75.9268747
+Rockford Lightning,Rockford,IL,6,42.2711311,-89.0939952
+St .Augustine Glory,St. Augustine,FL,6,29.9012437,-81.31243409999999
+Santa Barbara Islanders,Santa Barbara,CA,6,34.4208305,-119.6981901
+Sarasota Stingers,Sarasota,FL,6,27.3364347,-82.53065269999999
+Shreveport Crawdads,Shreveport,LA,6,32.5251516,-93.7501789
+Topeka Sizzlers,Topeka,KS,6,39.0473451,-95.67515759999999
+Tucson Buckets,Tucson,AZ,6,32.2226066,-110.9747108
+Utica Olympics,Utica,NY,6,43.100903,-75.232664
+Worcester 78's,Worcester,MA,6,42.2625932,-71.8022934
+Augusta Eagles,Augusta,GA,7,33.4734978,-82.0105148
+Bellevue Blackhawks,Bellevue,WA,7,47.6101497,-122.2015159
+Bowling Green Hornets,Bowling Green,KY,7,36.9685219,-86.4808043
+Camp Springs Valor,Camp Springs,MD,7,38.8040027,-76.90663959999999
+Columbia Crusaders,Columbia,SC,7,34.0007104,-81.0348144
+Cornwall Frost Heaves,Cornwall,VT,7,43.960893,-73.2103951
+Danville Coal Miners,Danville,IL,7,40.124481,-87.6300207
+Dillon Thunder,Dillon,SC,7,34.4165505,-79.3711579
+Durham Coyotes,Durham,NC,7,35.9940329,-78.898619
+Florence Wildcats,Florence,SC,7,34.1954331,-79.7625625
+Fort Mill Players,Fort Mill,SC,7,35.0073697,-80.94507589999999
+Fredericksburg Grizzlies,Fredericksburg,VA,7,38.3031837,-77.4605399
+Greenville Galaxy,Greenville,NC,7,35.612661,-77.3663538
+Hampton Stallions,Hampton,VA,7,37.0298687,-76.34522179999999
+Hickory Hoyas,Hickory,NC,7,35.7344538,-81.3444573
+Jackson Eagles,Jackson,TN,7,35.6145169,-88.81394689999999
+Kyle Stallions,Kyle,TX,7,29.9891052,-97.87722670000001
+Lake Worth Gold,Lake Worth,FL,7,26.6167555,-80.0684479
+Mesquite Desert Dogs,Mesquite,NV,7,36.80553099999999,-114.06719
+Monroe Jazz,Monroe,LA,7,32.5093109,-92.1193012
+Oneonta Octane,Oneonta,NY,7,42.4528571,-75.0637746
+Peoria Panthers,Peoria,IL,7,40.6936488,-89.5889864
+Petersburg Cavaliers,Petersburg,VA,7,37.2279279,-77.40192669999999
+Salisbury Bulls,Salisbury,NC,7,35.6709727,-80.4742261
+Spartanburg Stars,Spartanburg,SC,7,34.9495672,-81.9320482
+Springfield Sentinels,Springfield,IL,7,39.78172130000001,-89.6501481
+Stone Mountain Storm,Stone Mountain,GA,7,33.8081608,-84.17019599999999
+Temple Nighthawks,Temple,TX,7,31.0982344,-97.342782
+Wayne Express,Wayne,NJ,7,40.92537249999999,-74.2765441
+Westerville Bootleggers,Westerville,OH,7,40.1266689,-82.9318807
+Altoona Tuna,Altoona,PA,8,40.5186809,-78.3947359
+Baton Rouge Beignets,Baton Rouge,LA,8,30.4514677,-91.18714659999999
+Bethlehem Stables,Bethlehem,PA,8,40.6259316,-75.37045789999999
+Biloxi Blues,Biloxi,MS,8,30.3960318,-88.88530779999999
+Birmingham Bombardiers,Birmingham,AL,8,33.5185892,-86.8103567
+Bowie Rockstars,Bowie,MD,8,39.0067768,-76.77913649999999
+Brownsville Horchata,Brownsville,TX,8,25.9017472,-97.4974838
+Chattanooga Choo-Choos,Chattanooga,TN,8,35.0456297,-85.3096801
+Corpus Christi Crash,Corpus Christi,TX,8,27.8005828,-97.39638099999999
+Saint Paul Snowballs,Saint Paul,MN,8,44.9537029,-93.0899578
+Knoxville Smokies,Knoxville,TN,8,35.9606384,-83.9207392
+Lexington Leopards,Lexington,KY,8,38.0405837,-84.5037164
+Lincoln Logs,Lincoln,NE,8,40.813616,-96.7025955
+Lubbock Yuccas,Lubbock,TX,8,33.5778631,-101.8551665
+Madison Sconnies,Madison,WI,8,43.0730517,-89.4012302
+Manchester Mastodons,Manchester,NH,8,42.9956397,-71.4547891
+Midland Mystery,Midland,TX,8,31.9973456,-102.0779146
+Modesto Almonds,Modesto,CA,8,37.63909719999999,-120.9968782
+Montgomery Marlins,Montgomery,AL,8,32.3792233,-86.3077368
+Pawtucket Quahogs,Pawtucket,RI,8,41.878711,-71.38255579999999
+Salem Witchcraft,Salem,OR,8,44.9428975,-123.0350963
+Scottsdale Sunshine,Scottsdale,AZ,8,33.4941704,-111.9260519
+Eugene Voodoo,Eugene,OR,8,44.0520691,-123.0867536
+Springdale Surge,Springdale,AR,8,36.18674420000001,-94.1288141
+Springfield Show-Mes,Springfield,MO,8,37.2089572,-93.29229889999999
+Tacoma Trout,Tacoma,WA,8,47.2528768,-122.4442906
+Tallahassee Tourists,Tallahassee,FL,8,30.4382559,-84.28073289999999
+Trenton Gardeners,Trenton,NJ,8,40.2205824,-74.759717
+Vancouver Valhalla,Vancouver,WA,8,45.6355146,-122.55783
+Wichita Wheat,Wichita,KS,8,37.68717609999999,-97.33005299999999

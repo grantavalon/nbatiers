@@ -1,0 +1,243 @@
+team,city,state,tier
+Boston Celtics,Boston,MA,1
+Atlanta Hawks,Atlanta,GA,1
+Brooklyn Nets,Brooklyn,NY,1
+Charlotte Hornets,Charlotte,NC,1
+Chicago Bulls,Chicago,IL,1
+Cleveland Cavaliers,Cleveland,OH,1
+Dallas Mavericks,Dallas,TX,1
+Denver Nuggets,Denver,CO,1
+Detroit Pistons,Detroit,MI,1
+Golden State Warriors,San Francisco,CA,1
+Houston Rockets,Houston,TX,1
+Indiana Pacers,Indianapolis,IN,1
+Los Angeles Clippers,Los Angeles,CA,1
+Los Angeles Lakers,Los Angeles,CA,1
+Memphis Grizzlies,Memphis,TN,1
+Miami Heat,Miami,FL,1
+Milwaukee Bucks,Milwaukee,WI,1
+Minnesota Timberwolves,Minneapolis,MN,1
+New Orleans Pelicans,New Orleans,LA,1
+New York Knicks,New York,NY,1
+Oklahoma City Thunder,Oklahoma City,OK,1
+Orlando Magic,Orlando,FL,1
+Philadelphia 76ers,Philadelphia,PA,1
+Phoenix Suns,Phoenix,AZ,1
+Portland Trail Blazers,Portland,OR,1
+Sacramento Kings,Sacramento,CA,1
+San Antonio Spurs,San Antonio,TX,1
+Toronto Raptors,Toronto,ON,1
+Utah Jazz,Salt Lake City,UT,1
+Washington Wizards,Washington,DC,1
+Anaheim Amigos,Anaheim,CA,2
+Baltimore Bullets,Baltimore,MD,2
+Buffalo Braves,Buffalo,NY,2
+Calgary Cowboys,Calgary,AB,2
+Chicago Gears,Chicago,IL,2
+Cincinnati Royals,Cincinnati,OH,2
+Columbus Athletics,Columbus,OH,2
+Edmonton Eskimos,Edmonton,AB,2
+Green Bay Cheese,Green Bay,WI,2
+Jacksonville Giants,Jacksonville,FL,2
+Kansas City Kings,Kansas City,MO,2
+Las Vegas Gamblers,Las Vegas,NV,2
+Louisville Bourbon,Louisville,KY,2
+Mexico City Chalupas,Mexico City,CDMX,2
+Montreal Macarons,Montreal,QC,2
+Nashville Twang,Nashville,TN,2
+Newark Traffic,Newark,NJ,2
+Norfolk Squires,Norfolk,VA,2
+Oakland Oaks,Oakland,CA,2
+Ottawa Capitals,Ottawa,ON,2
+Pittsburgh Pipers,Pittsburgh,PA,2
+Raleigh Firebirds,Raleigh,NC,2
+St. Louis Spirits,St. Louis,MO,2
+San Diego Yachts,San Diego,CA,2
+San Jose Surge,San Jose,CA,2
+Seattle Supersonics,Seattle,WA,2
+Tampa Turtles,Tampa,FL,2
+Vancouver Vacuums,Vancouver,BC,2
+Virginia Beach Vipers,Virginia Beach,VA,2
+Winnipeg Caribou,Winnipeg,MB,2
+Albuquerque Thunderbirds,Albuquerque,NM,3
+Anderson Packers,Anderson,IN,3
+Austin Bats,Austin,TX,3
+Boise Stampede,Boise,ID,3
+Charleston Lowgators,Charleston,SC,3
+Edinburg Valley Vipers,Edinburg,TX,3
+El Paso Outlaws,El Paso,TX,3
+El Segundo Jets,El Segundo,CA,3
+Erie BayHawks,Erie,PA,3
+Fort Wayne Mad Ants,Fort Wayne,IN,3
+Frisco Legends,Frisco,TX,3
+Grand Rapids Drive,Grand Rapids,MI,3
+Hamilton Hammerheads,Hamilton,ON,3
+Hartford Hellcats,Hartford,CT,3
+Lakeland Egrets,Lakeland,FL,3
+Long Island Eggs,Uniondale,NY,3
+Mississauga 905,Mississauga,ON,3
+Moline Quads,Moline,IL,3
+Omaha Beef,Omaha,NE,3
+Prescott Pueblos,Prescott,AZ,3
+Providence Steamrollers,Providence,RI,3
+Quebec City Croissants,Quebec City,QC,3
+Reno Bighorns,Reno,NV,3
+Rochester Royals,Rochester,NY,3
+Saskatoon Snow Leopards,Saskatoon,SK,3
+Sheboygan Red Skins,Sheboygan,WI,3
+Syracuse Nationals,Syracuse,NY,3
+Sioux Falls Skyforce,Sioux Falls,SD,3
+Waterloo Hawks,Waterloo,IA,3
+White Plains Wealth,White Plains,NY,3
+Akron Wingfoots,Akron,OH,4
+Canton Charge,Canton,OH,4
+Charlottetown Storm,Charlottetown,PE,4
+Dayton Rens,Dayton,OH,4
+Des Moines Wolves,Des Moines,IA,4
+Flint Fuze,Flint,MI,4
+Fort Worth Flyers,Fort Worth,TX,4
+Greensboro Swarm,Greensboro,NC,4
+Halifax Hurricanes,Halifax,NS,4
+Kitchener Titans,Kitchener,ON,4
+Little Rock RimRockers,Little Rock,AR,4
+London Lightning,London,ON,4
+Moncton Magic,Moncton,NB,4
+Ontario Caliente,Ontario,CA,4
+Oshkosh Stars,Oshkosh,WI,4
+Portland Red Claws,Portland,ME,4
+Richmond Clothiers,Richmond,IN,4
+Saint John Riptide,Saint John,NB,4
+St. John's Edge,St. John's,NL,4
+Santa Cruz Slugs,Santa Cruz,CA,4
+Springfield Armor,Springfield,MA,4
+Stockton Swords,Stockton,CA,4
+Sudbury Five,Sudbury,ON,4
+Sydney Highlanders,Sydney,NS,4
+Toledo Jeeps,Toledo,OH,4
+Tulsa 66ers,Tulsa,OK,4
+Warren Penns,Warren,MI,4
+Wilmington Blue Coats,Wilmington,DE,4
+Youngstown Bears,Youngstown,OH,4
+Windsor Express,Windsor,ON,4
+Albany Patroons,Albany,NY,5
+Allentown Jets,Allentown,PA,5
+Anchorage Northern Knights,Anchorage,AK,5
+Asheville Altitude,Asheville,NC,5
+Bakersfield Jam,Bakersfield,CA,5
+Bismarck Wizards,Bismarck,ND,5
+Camden Bullets,Camden,NJ,5
+Columbus Riverdragons,Columbus,GA,5
+Fayetteville Patriots,Fayetteville,NC,5
+Fresno Farmers,Fresno,CA,5
+Fort Myers Flame,Fort Myers,FL,5
+Greenville Groove,Greenville,SC,5
+Honolulu Volcanos,Honolulu,HI,5
+Huntsville Flight,Huntsville,AL,5
+La Crosse Catbirds,La Crosse,WI,5
+Lancaster Red Roses,Lancaster,PA,5
+Lawton Cavalry,Lawton,OK,5
+Mobile Revelers,Mobile,AL,5
+Muskegon Mayhem,Muskegon,MI,5
+Orem Flash,Orem,UT,5
+Owensboro Thoroughbreds,Owensboro,KY,5
+Rapid City Thrillers,Rapid City,SD,5
+Richmond Roosters,Richmond,VA,5
+Roanoke Dazzle,Roanoke,VA,5
+Saint Petersburg Tide,Saint Petersburg,FL,5
+Savannah Spirits,Savannah,GA,5
+Scranton Aces,Scranton,PA,5
+Wichita Falls Texans,Wichita Falls,TX,5
+Wilkes-Barre Barons,Wilkes-Barre,PA,5
+Yakima SunKings,Yakima,WA,5
+Atlantic City Hi-Rollers,Atlantic City,NJ,6
+Spokane Pines,Spokane,WA,6
+Bangor Lumberjacks,Bangor,ME,6
+Billings Volcanos,Billings,MT,6
+Binghamton Flyers,Binghamton,NY,6
+Butte Daredevils,Butte,MT,6
+Casper Wildcatters,Casper,WY,6
+Cedar Rapids Silver Bullets,Cedar Rapids,IA,6
+Charleston Gunners,Charleston,WV,6
+Colorado Springs Mountaineers,Colorado Springs,CO,6
+Elmira Eagles,Elmira,NY,6
+Evansville Thunder,Evansville,IN,6
+Fargo Fever,Fargo,ND,6
+Gary Steelheads,Gary,IN,6
+Great Falls Explorers,Great Falls,MT,6
+Irvine Novastars,Irvine,CA,6
+Jackson Showboats,Jackson,MS,6
+Minot SkyRockets,Minot,ND,6
+Pensacola Tornados,Pensacola,FL,6
+Pikeville Miners,Pikeville,KY,6
+Reading Rainbows,Reading,PA,6
+Rockford Lightning,Rockford,IL,6
+St .Augustine Glory,St. Augustine,FL,6
+Santa Barbara Islanders,Santa Barbara,CA,6
+Sarasota Stingers,Sarasota,FL,6
+Shreveport Crawdads,Shreveport,LA,6
+Topeka Sizzlers,Topeka,KS,6
+Tucson Buckets,Tucson,AZ,6
+Utica Olympics,Utica,NY,6
+Worcester 78's,Worcester,MA,6
+Augusta Eagles,Augusta,GA,7
+Bellevue Blackhawks,Bellevue,WA,7
+Bowling Green Hornets,Bowling Green,KY,7
+Camp Springs Valor,Camp Springs,MD,7
+Columbia Crusaders,Columbia,SC,7
+Cornwall Frost Heaves,Cornwall,VT,7
+Danville Coal Miners,Danville,IL,7
+Dillon Thunder,Dillon,SC,7
+Durham Coyotes,Durham,NC,7
+Florence Wildcats,Florence,SC,7
+Fort Mill Players,Fort Mill,SC,7
+Fredericksburg Grizzlies,Fredericksburg,VA,7
+Greenville Galaxy,Greenville,NC,7
+Hampton Stallions,Hampton,VA,7
+Hickory Hoyas,Hickory,NC,7
+Jackson Eagles,Jackson,TN,7
+Kyle Stallions,Kyle,TX,7
+Lake Worth Gold,Lake Worth,FL,7
+Mesquite Desert Dogs,Mesquite,NV,7
+Monroe Jazz,Monroe,LA,7
+Oneonta Octane,Oneonta,NY,7
+Peoria Panthers,Peoria,IL,7
+Petersburg Cavaliers,Petersburg,VA,7
+Salisbury Bulls,Salisbury,NC,7
+Spartanburg Stars,Spartanburg,SC,7
+Springfield Sentinels,Springfield,IL,7
+Stone Mountain Storm,Stone Mountain,GA,7
+Temple Nighthawks,Temple,TX,7
+Wayne Express,Wayne,NJ,7
+Westerville Bootleggers,Westerville,OH,7
+Altoona Tuna,Altoona,PA,8
+Baton Rouge Beignets,Baton Rouge,LA,8
+Bethlehem Stables,Bethlehem,PA,8
+Biloxi Blues,Biloxi,MS,8
+Birmingham Bombardiers,Birmingham,AL,8
+Bowie Rockstars,Bowie,MD,8
+Brownsville Horchata,Brownsville,TX,8
+Chattanooga Choo-Choos,Chattanooga,TN,8
+Corpus Christi Crash,Corpus Christi,TX,8
+Saint Paul Snowballs,Saint Paul,MN,8
+Knoxville Smokies,Knoxville,TN,8
+Lexington Leopards,Lexington,KY,8
+Lincoln Logs,Lincoln,NE,8
+Lubbock Yuccas,Lubbock,TX,8
+Madison Sconnies,Madison,WI,8
+Manchester Mastodons,Manchester,NH,8
+Midland Mystery,Midland,TX,8
+Modesto Almonds,Modesto,CA,8
+Montgomery Marlins,Montgomery,AL,8
+Pawtucket Quahogs,Pawtucket,RI,8
+Salem Witchcraft,Salem,OR,8
+Scottsdale Sunshine,Scottsdale,AZ,8
+Eugene Voodoo,Eugene,OR,8
+Springdale Surge,Springdale,AR,8
+Springfield Show-Mes,Springfield,MO,8
+Tacoma Trout,Tacoma,WA,8
+Tallahassee Tourists,Tallahassee,FL,8
+Trenton Gardeners,Trenton,NJ,8
+Vancouver Valhalla,Vancouver,WA,8
+Wichita Wheat,Wichita,KS,8
+
+
